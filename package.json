@@ -1,0 +1,22 @@
+{
+  "name": "cypress_a1_router_restarter",
+  "version": "1.0.0",
+  "description": "This project uses cypress to trigger a restart of a A1 Router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpointeck/cypress_a1_router_restarter.git"
+  },
+  "author": "Daniel Pointecker <daniel.pointecker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpointeck/cypress_a1_router_restarter/issues"
+  },
+  "homepage": "https://github.com/dpointeck/cypress_a1_router_restarter#readme",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}
